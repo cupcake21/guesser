@@ -1,6 +1,6 @@
 # guesser
 
-A Clojure library designed to ... well, that part is up to you.
+A Clojure library designed to help me experiment with Clojure by creating some basic functions for use in the REPL.
 
 ## Usage
 
